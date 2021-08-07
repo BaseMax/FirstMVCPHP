@@ -8,6 +8,6 @@ class HomeController
 {
     public function index()
     {
-        // TODO: Implement
+        print 'Hello, World!';
     }
 }
