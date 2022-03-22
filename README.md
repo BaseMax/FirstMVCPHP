@@ -1,4 +1,4 @@
-# First PHP MVC (MVC: Model, View, and Controller)
+# First MVC PHP (MVC: Model, View, and Controller)
 
 First implement of **MVC** structure in pure **PHP** with a tiny router for passing requests to Controllers.
 
